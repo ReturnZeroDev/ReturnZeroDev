@@ -77,3 +77,62 @@ Check out my MotoVlog: Undefined Behaviour
 ​<div align="center">
 <code>return 0;</code>
 </div>
+
+
+
+
+
+
+
+### // standard_library_includes
+<div align="center">
+
+  # void return_zero( )
+
+  **C++ Developer | Mathematics Enthusiast | System Architect**
+
+  > *"I write code to bring order. I ride to find chaos."*
+
+  <a href="[https://www.youtube.com/@ReturnZeroDev](https://www.youtube.com/@ReturnZeroDev)">
+    <img src="[https://img.shields.io/badge/YouTube-Return%20Zero-red?style=for-the-badge&logo=youtube&logoColor=white](https://img.shields.io/badge/YouTube-Return%20Zero-red?style=for-the-badge&logo=youtube&logoColor=white)" alt="Return Zero Coding Channel" />
+  </a>
+  
+  <a href="[https://www.youtube.com/@UndefinedBehaviourMoto](https://www.youtube.com/@UndefinedBehaviourMoto)">
+    <img src="[https://img.shields.io/badge/YouTube-Undefined%20Behaviour-000000?style=for-the-badge&logo=youtube&logoColor=FFD700](https://img.shields.io/badge/YouTube-Undefined%20Behaviour-000000?style=for-the-badge&logo=youtube&logoColor=FFD700)" alt="Undefined Behaviour Moto Channel" />
+  </a>
+
+</div>
+
+---
+
+### // main.cpp
+
+```cpp
+#include <iostream>
+#include <vector>
+
+class Developer {
+private:
+    std::string location = "Kashmir, IN";
+    std::string focus = "Systems Programming & DSA";
+    bool job_hunt_active = true;
+
+public:
+    void daily_routine() {
+        while (year == 2026) {
+            study("STL");
+            solve("LeetCode");
+            build("Projects");
+            
+            if (burnout_detected) {
+                execute_escape_sequence(); 
+            }
+        }
+    }
+    
+    // Context Switch: Motovlogging
+    void execute_escape_sequence() {
+        std::cout << "Launching Undefined Behaviour..." << std::endl;
+        // See dependencies below for the link
+    }
+};
