@@ -2,91 +2,102 @@
 
 # void return_zero( )
 
-**C++ Developer | Mathematics Enthusiast | System Architect**
+<!-- Dynamic Typing Effect -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=500&lines=System+Architect+%7C+C%2B%2B+Engineer;Building+the+algorithm+for+2026;Runtime+environment:+Kashmir,+IN" alt="Typing SVG" />
+</a>
+
+<br/>
 
 > *"I write code to bring order. I ride to find chaos."*
 
-<a href="https://www.youtube.com/@ReturnZeroDev">
-  <img src="https://img.shields.io/badge/YouTube-Return%20Zero-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Return Zero Coding Channel" />
-</a>
+<br/>
 
+<!-- Social Badges: Logic vs Chaos -->
+<a href="https://www.youtube.com/@ReturnZeroDev">
+  <img src="https://img.shields.io/badge/YouTube-Return%20Zero-d00000?style=for-the-badge&logo=youtube&logoColor=white" alt="Return Zero" />
+</a>
+&nbsp;&nbsp;
 <a href="https://www.youtube.com/@UndefinedBehaviourMoto">
-  <img src="https://img.shields.io/badge/YouTube-Undefined%20Behaviour-000000?style=for-the-badge&logo=youtube&logoColor=FFD700" alt="Undefined Behaviour Moto Channel" />
+  <img src="https://img.shields.io/badge/YouTube-Undefined%20Behaviour-000000?style=for-the-badge&logo=youtube&logoColor=CCFF00" alt="Undefined Behaviour" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:return.zero.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Contact-return.zero.dev-0d1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 </div>
 
-<br />
+<br/>
 
 ## // main.cpp
 
 ```cpp
 #include <iostream>
-#include <vector>
+#include <kashmir_valley.h>
 
-class Developer {
+class SystemArchitect : public Human {
 private:
-    std::string location = "Kashmir, IN";
-    std::string focus = "Systems Programming & DSA";
-    bool job_hunt_active = true;
+    std::string location = "Himalayas, IN";
+    std::string core_stack = "C++20, C, Linux, Unix, Low-Level Systems";
+    double caffeine_level = 99.9;
 
 public:
-    void daily_routine() {
-        while (year == 2026) {
-            study("STL");
-            solve("LeetCode");
-            build("Projects");
+    void execution_loop() {
+        while (year < 2026) {
+            optimize("DSA");
+            architect("System Design");
             
-            if (burnout_detected) {
-                execute_escape_sequence(); 
+            if (segmentation_fault()) {
+                throw UndefinedBehaviour(); // Context switch to MotoVlog
             }
         }
-    }
-    
-    // Context Switch: Motovlogging
-    void execute_escape_sequence() {
-        std::cout << "Launching Undefined Behaviour..." << std::endl;
-        // See dependencies below for the link
     }
 };
 ```
 
-<br />
+<br/>
 
 ## // tech_stack.h
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white" />
-  <img src="https://img.shields.io/badge/Math-000000?style=flat&logo=latex&logoColor=white" />
-</p>
-
-<br />
-
-## // system_metrics.log
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ReturnZeroDev&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReturnZeroDev&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+
+| **Core Languages** | **Infrastructure & Tools** |
+|:---:|:---:|
+| <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white"/> | <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Unix-404549?style=flat&logo=unix&logoColor=white"/> <img src="https://img.shields.io/badge/BSD-CC0000?style=flat&logo=freebsd&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white"/> <img src="https://img.shields.io/badge/Tmux-1BB91F?style=flat&logo=tmux&logoColor=white"/> |
+
 </div>
 
-<br />
+<br/>
+
+## // system_analytics.log
+
+<div align="center">
+  <!-- Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ReturnZeroDev&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&icon_color=20C20E&title_color=CCFF00" height="150" alt="GitHub Stats" />
+  
+  <!-- Streak Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ReturnZeroDev&theme=radical&hide_border=true&background=0D1117&currStreakLabel=CCFF00&fire=CCFF00" height="150" alt="GitHub Streak" />
+</div>
+
+<br/>
 
 ## // escape_sequence.sh
 
 ```bash
 #!/bin/bash
-echo "Launching Undefined Behaviour..."
-# Documentary of a programmer escaping the matrix.
+echo "WARNING: System Overload Detected."
+echo "Executing Escape Sequence..."
+# Launching: Dark Matter (Classic 350)
 ```
-> **[🔴 Watch the Glitch on YouTube (@UndefinedBehaviourMoto)](https://www.youtube.com/@UndefinedBehaviourMoto)**
 
-<br />
+> **[ ⚠️ VIEW THE LOGS: Undefined Behaviour ](https://www.youtube.com/@UndefinedBehaviourMoto)**
 
+<br/>
+
+<!-- Footer -->
 <div align="center">
   <code>return 0;</code>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=ReturnZeroDev&style=flat-square&color=20C20E&label=VIEWS" alt="Profile Views" />
 </div>
